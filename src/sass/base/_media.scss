@@ -39,8 +39,10 @@
             font-size: 13px;
         }
     }
-    .title_left {
-        font-size: 33px;
+    .title {
+        &_left {
+            font-size: 33px;
+        }
     }
     .consultation {
         &__descr {
@@ -54,7 +56,7 @@
             font-size: 12px;
         }
     }
-    .button{
+    .button {
         &_submit {
             font-size: 14px;
         }
